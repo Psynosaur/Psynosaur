@@ -36,6 +36,14 @@ Man-in-the-Middle adapter for Deye batteries using ESP32 with dual CAN-bus capab
 **[esphome-deye-bms](https://github.com/Psynosaur/esphome-deye-bms)**  
 ESPHome integration for Deye battery management systems
 
+### 🖥️ AI & Edge Computing
+
+**[Jetson SecVision](https://github.com/Psynosaur/Jetson-SecVision)**  
+Cutting-edge security vision system built on NVIDIA Jetson platform with custom AI models  
+• Developed real-time object detection system using YOLOv5 on Jetson Nano
+• Created adaptive monitoring system that learns normal activity patterns to reduce false alerts  
+• Implemented encrypted edge-to-cloud communication for secure remote monitoring  
+
 ### 💻 Software Engineering
 
 **[Marsrover](https://github.com/Psynosaur/Marsrover)**  
@@ -66,7 +74,7 @@ Technical assessment solution demonstrating problem-solving capabilities in comp
 [![Personal Site](https://img.shields.io/badge/WeatherU-00ACEE?style=for-the-badge&logo=wordpress&logoColor=white)](https://weatheru.co.za)
 [![Photography](https://img.shields.io/badge/Flickr-E4405F?style=for-the-badge&logo=flickr&logoColor=white)](https://flickr.com/ohansmit)
 
-📧 ohansmit@gmail.com | 🌐 ZS1SCI
+🌐 ZS1SCI
 
 ---
 
