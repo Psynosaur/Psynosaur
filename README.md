@@ -21,7 +21,7 @@
 
 ### 📡 RF & SDR Projects
 
-**[DATV-Red](https://github.com/Psynosaur/DATV-Red)** 
+**[DATV-Red](https://github.com/Psynosaur/DATV-Red)**  
 Cross platform DATV full duplex solution built in Node-Red for PlutoSDRs
 
 **[moRFeusQt](https://github.com/Psynosaur/moRFeusQt)**  
