@@ -46,7 +46,7 @@ Cutting-edge security vision system built on NVIDIA Jetson platform with custom 
 
 ### 💻 Software Engineering
 
-**[Marsrover](https://github.com/Psynosaur/Marsrover)**  
+**[Marsrover](https://github.com/Psynosaur/_Marsrover)**  
 Technical assessment solution demonstrating problem-solving capabilities in complex scenarios
 
 ## 🛠️ Tech Stack
