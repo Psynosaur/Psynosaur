@@ -10,7 +10,7 @@
 **Software Engineer III - Full Stack** @ Capitec (2023-Present)  
 • Spearheading migration of Horizon software stack to AWS, enhancing system reliability 
 • Developing enterprise-wide client communication systems with Conversational Banking Team  
-• Building a full-stack LivePerson replacement using TypeScript, React, AWS and Terraform   
+• Building a full-stack LivePerson replacement using TypeScript, React, Kafka, AWS and Terraform   
 
 **Software Defined Radio Technologist** (2016-Present)  
 • Exploring security vulnerabilities in wireless devices and ethical hacking techniques  
