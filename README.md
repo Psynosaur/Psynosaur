@@ -8,14 +8,14 @@
 ## 💼 Professional Experience
 
 **Software Engineer III - Full Stack** @ Capitec (2023-Present)  
-• Spearheading migration of Horizon software stack to AWS, enhancing system reliability 
-• Developing enterprise-wide client communication systems with Conversational Banking Team  
-• Building a full-stack LivePerson replacement using TypeScript, React, Kafka, AWS and Terraform   
+- Spearheading migration of Horizon software stack to AWS, enhancing system reliability 
+- Developing enterprise-wide client communication systems with Conversational Banking Team  
+- Building a full-stack LivePerson replacement using TypeScript, React, Kafka, AWS and Terraform   
 
 **Software Defined Radio Technologist** (2016-Present)  
-• Exploring security vulnerabilities in wireless devices and ethical hacking techniques  
-• Engaged in weather satellite RF reception projects and building specialized antennas for Radio Astronomy  
-• Published research on "Reverse Engineering Weather Station RF signals with an SDR and URH"  
+- Exploring security vulnerabilities in wireless devices and ethical hacking techniques  
+- Engaged in weather satellite RF reception projects and building specialized antennas for Radio Astronomy  
+- Published research on "Reverse Engineering Weather Station RF signals with an SDR and URH"  
 
 ## 🔬 Featured Projects
 
@@ -40,9 +40,10 @@ ESPHome integration for Deye battery management systems
 
 **[Jetson SecVision](https://github.com/Psynosaur/Jetson-SecVision)**  
 Cutting-edge security vision system built on NVIDIA Jetson platform with custom AI models  
-• Developed real-time object detection system using YOLOv5 on Jetson Nano
-• Created adaptive monitoring system that learns normal activity patterns to reduce false alerts  
-• Implemented encrypted edge-to-cloud communication for secure remote monitoring  
+
+- Developed real-time object detection system using YOLOv5 on Jetson Nano
+- Created adaptive monitoring system that learns normal activity patterns to reduce false alerts  
+- Implemented encrypted edge-to-cloud communication for secure remote monitoring  
 
 ### 💻 Software Engineering
 
