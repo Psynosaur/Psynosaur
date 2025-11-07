@@ -79,4 +79,3 @@ Technical assessment solution demonstrating problem-solving capabilities in comp
 
 ---
 
-*"I drive innovation at the intersection of enterprise software and radio frequency technology, building systems that bridge the digital and physical worlds."*
