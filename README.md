@@ -7,9 +7,10 @@
 
 ## 💼 Professional Experience
 
-**Software Engineer III - Full Stack** @ Capitec (2023-Present)  
-- Spearheading migration of Horizon software stack to AWS, enhancing system reliability 
-- Developing enterprise-wide client communication systems with Conversational Banking Team  
+**Software Engineer III - Full Stack(Staff Engineer work)** @ Capitec (2023-Present)  
+- Building software for the ever evolving banking arena.
+- Cut off LivePerson in 96s, and spun up a custom agent communication platform(built over a year).
+- Other than that, I push the envelope in the security and AI space, working on higher up's nerves.
    
 
 **Software Defined Radio Technologist** (2016-Present)  
