@@ -1,8 +1,5 @@
 # 👋 Ohan Smit | Software Engineer & Radio Enthusiast
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Psynosaur&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Psynosaur&layout=compact&theme=radical)
-
 ## 📌 About Me
 
 ## 💼 Professional Experience
