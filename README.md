@@ -1,4 +1,4 @@
-# 👋 Ohan Smit | Software Engineer & Radio Enthusiast
+# 👋 Ohan Smit | Full Duplex Software engineer
 
 ## 📌 About Me
 
@@ -13,6 +13,11 @@
 - Exploring security vulnerabilities in wireless devices and ethical hacking techniques  
 - Engaged in weather satellite RF reception projects and building specialized antennas for Radio Astronomy  
 - Published research on "Reverse Engineering Weather Station RF signals with an SDR and URH"  
+
+**Unrestricted Radio Amateur license holder with callsign ZS1SCI** (2017-Present)  
+- Can send wiggly stuff into space, sometimes it talks back.
+- Similarly, terrestrial wiggly stuff
+- Nothing has exploded so far...
 
 ## 🔬 Featured Projects
 
