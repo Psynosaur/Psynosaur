@@ -7,11 +7,10 @@
 
 ## 💼 Professional Experience
 
-**Software Engineer III - Full Stack(Staff Engineer work)** @ Capitec (2023-Present)  
+**Software Engineer III - Full Duplex** @ Capitec (2023-Present)  
 - Building software for the ever evolving banking arena.
-- Cut off LivePerson in 96s, and spun up a custom agent communication platform(built over a year).
-- Other than that, I push the envelope in the security and AI space, working on higher up's nerves.
-   
+- Beep Bop - Beep Bop
+- I am komputer, po-ta-to    
 
 **Software Defined Radio Technologist** (2016-Present)  
 - Exploring security vulnerabilities in wireless devices and ethical hacking techniques  
