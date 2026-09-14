@@ -31,6 +31,8 @@ Simple cross platform tool for controlling moRFeus mixer/RF generator via the HI
 **[NanoVNASharp](https://github.com/Psynosaur/NanoVNASharp)**  
 Reverse engineered sources for the NanoVNASharp application with added TDR functionality
 
+### ☀️ Energy Storage Projects
+
 **[MitM-Deye](https://github.com/Psynosaur/esphome-MitM-deye-jk-bms)**  
 Man-in-the-Middle adapter for Deye batteries using ESP32 with dual CAN-bus capability
 
