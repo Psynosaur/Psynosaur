@@ -1,13 +1,14 @@
 # 👋 Ohan Smit | Full Duplex Software engineer
 
-## 📌 About Me
-
 ## 💼 Professional Experience
 
 **Software Engineer III - Full Duplex** @ Capitec (2023-Present)  
 - Building software for the ever evolving banking arena.
 - Beep Bop - Beep Bop
 - I am komputer, po-ta-to    
+
+
+## 🔬 Unprofessional Experience
 
 **Software Defined Radio Technologist** (2016-Present)  
 - Exploring security vulnerabilities in wireless devices and ethical hacking techniques  
@@ -18,8 +19,6 @@
 - Can send wiggly stuff into space, sometimes it talks back.
 - Similarly, terrestrial wiggly stuff
 - Nothing has exploded so far...
-
-## 🔬 Featured Projects
 
 ### 📡 RF & SDR Projects
 
@@ -77,7 +76,7 @@ Technical assessment solution demonstrating problem-solving capabilities in comp
 [![Personal Site](https://img.shields.io/badge/WeatherU-00ACEE?style=for-the-badge&logo=wordpress&logoColor=white)](https://weatheru.co.za)
 [![Photography](https://img.shields.io/badge/Flickr-E4405F?style=for-the-badge&logo=flickr&logoColor=white)](https://flickr.com/ohansmit)
 
-🌐 ZS1SCI
+[🌐 ZS1SCI](https://new.zs1sci.com)
 
 ---
 
